@@ -21,34 +21,28 @@ The Speech-to-Text (STT) project is designed to convert spoken words into writte
 To get started with this project, follow these simple steps:
 
 1. **Clone this repository**:
+
    ```bash
    git clone <https://github.com/Eddy-dashner/voiceRecognizer-App>
    ```
-   Install the required dependencies.
 
-bash
-Copy code
+**Install the required dependencies.**
+
 npm install
-[Add any other setup steps here.]
 
-Usage
+**Usage**
+
 Explain how to use your TTS application. Include examples, screenshots, or code snippets to demonstrate its functionality.
 
-For example:
+**For example:**
 
 Run the TTS application.
 
-bash
-Copy code
-npm start
-Open a web browser and go to http://localhost:8080.
+python test.py
 
 [Describe how to use the TTS functionality.]
 
-Contributing
-Explain how others can contribute to your project. Include guidelines for reporting issues, making changes, and submitting pull requests.
-
-For example:
+**Contributing**
 
 If you find a bug or have a feature request, please open an issue.
 Fork the repository and make your changes in a feature branch.
