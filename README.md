@@ -24,3 +24,34 @@ To get started with this project, follow these simple steps:
    ```bash
    git clone <https://github.com/Eddy-dashner/voiceRecognizer-App>
    ```
+   Install the required dependencies.
+
+bash
+Copy code
+npm install
+[Add any other setup steps here.]
+
+Usage
+Explain how to use your TTS application. Include examples, screenshots, or code snippets to demonstrate its functionality.
+
+For example:
+
+Run the TTS application.
+
+bash
+Copy code
+npm start
+Open a web browser and go to http://localhost:8080.
+
+[Describe how to use the TTS functionality.]
+
+Contributing
+Explain how others can contribute to your project. Include guidelines for reporting issues, making changes, and submitting pull requests.
+
+For example:
+
+If you find a bug or have a feature request, please open an issue.
+Fork the repository and make your changes in a feature branch.
+Submit a pull request with your changes, following the contribution guidelines.
+License
+This project is licensed under the MIT License. See the LICENSE.md file for details.
