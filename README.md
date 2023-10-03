@@ -44,7 +44,6 @@ python test.py
 
 **Contributing**
 
-If you find
 Fork the repository and make your changes in a feature branch.
 Submit a pull request with your changes, following the contribution guidelines.
 License
