@@ -44,7 +44,7 @@ python test.py
 
 **Contributing**
 
-If you find a bug or have a feature request, please open an issue.
+If y
 Fork the repository and make your changes in a feature branch.
 Submit a pull request with your changes, following the contribution guidelines.
 License
